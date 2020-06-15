@@ -2,11 +2,11 @@ baseURL                          = "/"  # Your domain name. Must end with "/"
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 # disqusshortname                 = ""                       # https://gohugo.io/content-management/comments
-# googleAnalytics                 = "UA-169366563-1"                       # https://gohugo.io/templates/internal/#google-analytics
+googleAnalytics                 = "UA-169366563-1"                       # https://gohugo.io/templates/internal/#google-analytics
 
 [params]
     themeStyle                   = "dark"                 # Choose "light" or "dark"
-    favicon                      = "fav.ico"          # Path to favicon file
+    favicon                      = "content/fav.ico"          # Path to favicon file
     showRSSButton                = false                   # Show rss button in navigation
     fadeIn                       = true                    # Turn on/off the fade-in effect
     fadeInIndex                  = false                   # Turn on/off the fade-in effect on the index page even if fade-in was otherwise turned off
