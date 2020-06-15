@@ -1,7 +1,7 @@
 ---
 title: "About"
 image: "dev2.jpg"
-weight: 1
+weight: 0
 ---
 
 I'm **Dev Sharma**, an ex-engineer turned Product Owner. 
