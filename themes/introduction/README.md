@@ -4,7 +4,7 @@
 ![Test Hugo versions](https://github.com/victoriadrake/hugo-theme-introduction/workflows/test-versions/badge.svg)
 ![Latest Release](https://img.shields.io/github/tag/victoriadrake/hugo-theme-introduction.svg)
 
-Introduction is a minimalist, highly-versatile theme for Hugo. It can be configured as a single page, or as a full-featured site with multiple sections. It is multilingual, responsive, and includes a light and dark theme.
+Introduction is a minimalist, highly versatile theme for Hugo. It can be configured as a single page, or as a full-featured site with multiple sections. It is multilingual, responsive, and includes a light and dark theme.
 
 ![Device mockups](https://github.com/victoriadrake/hugo-theme-introduction/blob/master/images/mockup.png)
 
